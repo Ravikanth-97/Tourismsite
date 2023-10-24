@@ -1,0 +1,115 @@
+
+
+
+.card-container {
+    background-image: url("https://robocloud.co.uk/wp-content/uploads/2019/10/RPA-Travel-Tourism-Automation-1.jpg");
+    background-size: cover;
+    
+    height: 100vh;
+    text-align:center;
+    padding:1px;
+  }
+  .tourism-card{
+    text-align: center;
+  background-color: white;
+  padding: 5px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  }
+.main-head{
+    font-family: "Roboto";
+}
+
+.button{
+    
+
+    color: white;
+    background-color: #25b1cc;
+    width: 138px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 20px;
+}
+.para{
+    font-family: "Roboto";
+    
+}
+
+
+.fav-palce-bg-container{
+  background-image: url("https://www.bsr.org/images/heroes/bsr-travel-hero..jpg");
+  height:100vh;
+  background-size:cover;
+}
+
+.fav-place-head{
+  color:white;
+  font-size:28px;
+  font-weight:bold;
+  font-family:"roboto";
+background-color:brown;
+  text-decoration:underline;
+  text-shadow: black;
+  padding:20px;
+  
+}
+    
+  .favourite-place-card-container{
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin:15px;
+  }
+
+  .favourite-place-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+  }
+  .favourite-place-card-description {
+    color: #484650;
+    font-family: "Roboto";
+    font-size: 15px;
+  }
+
+  .favourite-place-card-image{
+    height:100px;
+    width:100px;
+    border-radius: 3px;
+  }
+  
+
+  .detailed-view-bg-contianer{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    background-size: cover;
+    }
+
+    .detailed-view-heading{
+      color: white;
+      font-family: "Roboto";
+      font-size: 28px;
+      font-weight: bold;
+      padding: 24px;
+    }
+    .detailed-view-card-container {
+      background-color: white;
+      border-bottom-right-radius: 8px;
+      border-bottom-left-radius: 8px;
+      margin: 24px;
+    }
+    .detailed-view-card-heading {
+      color: #0f0e46;
+      font-family: "Roboto";
+      font-size: 23px;
+      font-weight: bold;
+    }
+    .detailed-view-card-description {
+      color: #6c6b70;
+      font-family: "Roboto";
+      font-size: 13px;
+    }
+    .detailed-view-card-text-container {
+      padding: 16px;
+    }
